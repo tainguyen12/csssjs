@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.inankts.com/' target='_blank'><img src='https://4.bp.blogspot.com/-2Ky3sGouWNw/WP3ovZg3sSI/AAAAAAAAAF4/xjMODJKpvmUhA3LDKX_HTz7qlVoq6UIggCLcB/s1600/14925359_1240602335963256_8558306839295801323_n.jpg' width='500px'/><br/>13 In quảng cáo kỹ thuật số</a>. Giá rẻ tại TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/pAeDJH' target='_blank'><img src='https://4.bp.blogspot.com/-2Ky3sGouWNw/WP3ovZg3sSI/AAAAAAAAAF4/xjMODJKpvmUhA3LDKX_HTz7qlVoq6UIggCLcB/s1600/14925359_1240602335963256_8558306839295801323_n.jpg' width='500px'/><br/>13 In quảng cáo kỹ thuật số</a>. Giá rẻ tại TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
